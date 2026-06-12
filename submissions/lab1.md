@@ -86,3 +86,4 @@ Which of these are MISSING? (cross-reference Lecture 1 OWASP Top 10:2025 — A06
 I starred the course repository and other relevant repositories to bookmark useful projects and support their maintainers. Starring also helps track tools I may reuse later in AppSec or DevSecOps work.
 
 Following other developers I'm interested in helps me see their activity, discover useful repositories, and stay aware of collaboration patterns in real projects. It is also helpful for professional growth and for building an engineering network.
+ 
